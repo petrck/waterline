@@ -1,0 +1,23 @@
+{
+  "name": "waterline-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "waterline": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrck/waterline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrck/waterline/issues"
+  },
+  "homepage": "https://github.com/petrck/waterline#readme"
+}
