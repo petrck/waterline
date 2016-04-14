@@ -6,11 +6,13 @@
   "dependencies": {
     "waterline": "^0.12.1",
     "sails-disk": "0.10.9",
-    "sails-mysql": "0.12.1"
+    "sails-mysql": "0.12.1",
+    "express": "4.13.4"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node example.js"
+      "start": "node example.js", 
+      "test": "node example.js"
   },
   "repository": {
     "type": "git",
