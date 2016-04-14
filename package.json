@@ -4,7 +4,9 @@
   "description": "",
   "main": "example.js",
   "dependencies": {
-    "waterline": "^0.12.1"
+    "waterline": "^0.12.1",
+    "sails-disk": "0.10.9",
+    "sails-mysql": "0.12.1"
   },
   "devDependencies": {},
   "scripts": {
